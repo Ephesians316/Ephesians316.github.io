@@ -59,7 +59,8 @@ li.dropdown {
 
     /* The image used */
     background-image: url("../images/Sea.jpg");
-    
+        background-repeat: no-repeat;
+    background-attachment: fixed;
 
     /* Full height */
     height: 100%; 
